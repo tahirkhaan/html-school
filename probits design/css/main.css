@@ -1,0 +1,267 @@
+body{
+	width: 98%;
+}
+header{
+	border: 1px solid black;
+	height: 140px;
+	background-color: #252525;
+}
+header h2{
+	padding-left: 300px
+}
+#logo{
+	
+	padding-left: 80px;
+	width: 10%;
+	height: 130px;
+	float: left;
+	display: inline-block;
+
+	
+}
+#text h2{
+	padding-left: 0px;
+	color: white;
+	padding-top: 20px;
+	font-family: 'Didact Gothic', sans-serif;
+}
+#text{
+	
+	float: left;
+	height: 140px;
+}
+
+.Searchbox{
+  width: 300px;
+  float: right;
+  white-space: nowrap;
+  position: relative;
+
+
+
+}
+ 
+.Searchbox input#search{
+  width: 250px;
+  height: 60px;
+  background: #c2c2c2;
+  background-image: url('../img/searchicon.png');
+  background-repeat: no-repeat;
+   background-position: right;
+
+
+  border: none;
+  font-size: 10pt;
+  float: right;
+  
+  padding-left: 45px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 2px;
+  color: #fff;
+
+}
+.Searchbox input{
+	margin-right: 180px;
+	margin-top: 35px;
+	
+}
+
+/***section***/
+.section1{
+	
+	height: 50px;
+	width: 100%;
+	background-color: #ebebeb;
+	display: inline-block;
+}
+.section1 li{
+	display: inline;
+	font-weight: bold;
+	font-family: 'Open Sans', sans-serif;
+	
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	padding-right: 15px
+
+}
+
+.section1 ul{
+	margin-left: 180px;
+}
+ul li:hover {
+	color: white;
+	background: black;
+
+
+
+}
+/** Section2***/
+.section2{
+	
+	height: 500px;
+	width: 100%;
+	display: inline-block;
+}
+.section2 img {
+    position: absolute;
+    
+    z-index: -1;
+}
+.section2 h3{
+	margin-left: 80px;
+	margin-top: 50px;
+	font-size: 25px;
+	color: white;
+	font
+}
+/****Section3***/
+.section3{
+	
+	height: 200px;
+	width: 100%;
+	display: inline-block;
+	background-color: #cccccc;
+}
+#clickhere{
+	
+	height: 200px;
+	width: 33%;
+	float: left;
+	text-align: center;
+	font-family: 'Gotham Book', sans-serif;
+
+}
+#clickhere a{
+	color: #7d74a6;
+
+
+}
+
+/*** Section4**/
+.section4{
+	
+	height: 300px;
+	width: 100%;
+	display: inline-block;
+}
+#ask{
+	
+	width: 38%;
+	height: 300px;
+	display: inline-block;
+	float: left;
+	font-family: 'Gotham Book', sans-serif;
+	background-color: #111111;
+	
+}
+#blog{
+	font-family: 'Gotham Book', sans-serif;
+	width: 20%;
+	height: 300px;
+	float: left;
+	margin-left: 8px;
+	background-color: #111111;
+	color: white;
+
+
+}
+#help{
+	font-family: 'Gotham Book', sans-serif;
+
+	width: 40.30%;
+	height: 300px;
+	float: left;
+	margin-left: 8px;
+	background-color: #111111;
+
+
+}
+#text h3{
+	color: #26722d;
+}
+#text11{
+	float: right;
+	margin-right: 20px;
+	color: white;
+}
+#text11 h3{
+	color: #26722d;
+}
+#text1{
+	margin-left: 8px;
+
+}
+#text1 h3{
+	color: #26722d;
+
+}
+#help img{
+	float: left;
+	display: inline-block;
+}
+#text3{
+	margin-left: 15px;
+}
+#text3 h3{
+	color: #26722d;
+}
+#help p{
+	float: left;
+	margin-left: 10px;
+	color: white;
+}
+.contact-info{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	font-size: 0.9em;
+}
+.contact-info a{
+	display: block;
+	min-height: 20px;
+	background-repeat: no-repeat;
+	background-size: 20px 20px;
+	padding: 0 0 0 30px;
+	margin: 0 0 10px;
+	text-decoration: none;
+	color: white;
+}
+
+#help .contact-info li.facebook a {
+	background-image: url('../img/fb.png');
+}
+.contact-info li.twitter a {
+	background-image: url('../img/twitter.png');
+}
+.contact-info li.instagram a {
+	background-image: url('../img/instagram.png');
+}
+.contact-info li.youtube a {
+	background-image: url('../img/youtube.png');
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
