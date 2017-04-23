@@ -1,0 +1,125 @@
+.top{
+    
+    height: 100px;
+    width: 100%;
+    background-image: url("../img/blueimage.png");
+    font-family: sans-serif;  
+      
+
+
+}
+.top p{
+    margin-top: 35px;
+}
+.nav{
+
+    
+  
+    margin-top: 5px;
+    
+}
+ ul a{
+    font-weight: bold;
+    color: #03354b;
+}
+ ul{
+    margin-top: 15px;
+}
+.bigimage{
+    
+    padding-bottom: 280px;
+    padding-top: 150px;
+    background-image: url("../img/ice.png");
+    background-repeat: no-repeat;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.bigimage button{
+
+    background-color: #03354b;
+    border: none;
+    border-radius: 20px;
+    padding: 8px 40px;
+
+}
+.blue{
+    margin-top: 15px;
+   background-image: url("../img/blue.png");
+   
+   color: #407299;
+   padding-top: 30px;
+}
+.blue button{
+    background-color: transparent;
+    border-color: #194777;
+    box-shadow: 20px;
+    padding: 8px 40px;
+    color: #407299;
+    border-radius: 20px;
+}
+center h1{
+    margin-top: 50px;
+    color: #666666;
+}
+center{
+    margin-bottom: 40px;
+}
+.bluebg{
+    border:1px solid black;
+    background-image: url("../img/bluee.png");
+    background-size: 100%;
+    padding-bottom: 70px;
+   
+}
+.tools{
+    background-image: url("../img/tool.png");
+   background-repeat: no-repeat;
+}
+.computer{
+
+    background-image: url("../img/computerr.png");
+    background-repeat: no-repeat;
+
+}
+.current{
+    background-image: url("../img/current.png");
+    background-repeat: no-repeat;
+
+}
+.time{
+       background-image: url("../img/time.png");
+        background-repeat: no-repeat;
+
+}
+.tick{
+
+        background-image: url("../img/tick.png");
+        background-repeat: no-repeat;
+
+}
+.tick{
+
+        background-image: url("../img/tick.png");
+        background-repeat: no-repeat;
+
+}
+.srew{
+
+        background-image: url("../img/screws.png");
+        background-repeat: no-repeat;
+
+}
+
+.pics{
+    padding-top: 20px;
+}
+.footer{
+  background-color: #4d4d4d; 
+  color: white; 
+}
+.footr{
+    background-color: #d3e9fe; 
+    color: #547185;
+
+}
