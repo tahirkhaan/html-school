@@ -1,0 +1,59 @@
+button{
+	background-color: transparent;
+	border: 1px solid black;
+	
+	height: 30px;
+
+}
+
+.right-inner-addon {
+    position: relative;
+}
+.right-inner-addon input {
+    padding-right: 30px;    
+}
+.right-inner-addon i {
+    position: absolute;
+    right: 0px;
+    padding: 10px 12px;
+    pointer-events: none;
+}
+.col-md-4.image:after{
+
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 14px;
+  border-top: 444px solid #363636;
+  border-right: 0px solid rgba(255, 255, 255, 0);
+  border-right: 0px solid #363636;
+
+}
+.selectpicker{
+
+	color: white;
+	height: 40px;
+	background-color: #313131;
+	border-top: 1px solid white;
+}
+div#upper {
+    position: absolute;
+    top: 135px;
+    left: 120px;
+}
+.nav li:hover{
+
+	 
+    border: 1px solid black;
+
+}
+.box1, .box2, .box3, .box4{
+	padding: 50px;
+	padding-top: 40px;
+	
+
+ 
+ 
+ 
+
+ }
