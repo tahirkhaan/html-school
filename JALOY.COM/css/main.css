@@ -1,0 +1,518 @@
+/**********
+Header
+*********/
+.up{
+	background-color:#fe4578;
+    padding: 15px 10%;
+    color: white;
+}
+.up #right{
+	
+	float: right;
+}
+/**********
+Header
+*********/
+.down{
+	max-height: 350px;
+  	 padding: 30px 10%;
+}
+.down img{
+float: left;
+max-height: 480px;
+max-width: 350px;
+}
+.down nav{
+	float: right;
+	list-style: none;
+}
+
+.down ul{
+	list-style: none;
+	padding-top:40px;
+}
+.down li{
+	list-style: none;
+	display:inline;
+	padding-right:35px;
+	text-decoration: none;
+	background: transparent;
+	color: red;
+}
+.down li a{
+	text-decoration: none;
+}
+/**********
+section one
+*********/
+.one{
+display: inline-block;
+margin-top: 50px;
+overflow: hidden;
+height: 400px;
+}
+/***************************************************
+             Shop page
+***********************************************/
+
+.five #blog{
+	background-color:b0d136;
+	width: 50%;
+	height:350px;
+	display: inline-block;
+	text-align: center;
+
+}
+.five #blog h1{
+	text-align: center;
+	font-family:sans-serif;
+	font-weight: 900px;
+	padding-top: 80px;
+	color: white;
+	font-size: 50px;
+}
+.five #blog a{
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+.five #contacts{
+	background-color:fbfbfb;
+	width: 50%;
+	height:350px;
+	float: right;
+	text-align: center;
+}
+.five #contacts h1{
+	text-align: center;
+	font-family:sans-serif;
+	font-weight: 900px;
+	padding-top: 80px;
+	color: white;
+	font-size: 50px;
+	color: 1cb37d;
+}
+.five #contacts a{
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+/**********
+content right
+*********/
+.one .rights{
+	float: right;
+	width:810px;
+	height: 480px;
+	background-image: url('../img/cofee.jpg');
+	background-position: 0% 39%;
+
+}
+/**********
+content left
+*********/
+.one .lefts{
+	float: left;
+	width:522px;
+	height:480px;
+	display: inline;
+	background-image: url('../img/check.jpg');
+	overflow: hidden;
+	background-position: 0% 28%;
+}
+.one .lefts:hover{
+	background-color: ed6293;
+}
+.one .lefts h1{
+	text-align: center;
+	font-family:sans-serif;
+	font-weight: 900px;
+	padding-top: 110px;
+	color: white;
+	font-size: 50px;
+}
+/***************************************************
+             Shop page
+***********************************************/
+
+
+
+/***************************************************
+             about page
+***********************************************/
+.one .aboutright{
+	float: right;
+	width:810px;
+	height: 480px;
+}
+.one .aboutright img{
+	 float: right;
+    width: 788px;
+    height: 480px;
+    padding-left: 50px;
+
+}
+#draw{
+	height: 742px;
+	width: 100%;
+}
+#draw img{
+	height: 742px;
+	width: 100%;
+}
+.five #shopss{
+	background-color:fbfbfb;
+	width: 50%;
+	height:350px;
+	display: inline-block;
+	text-align: center;
+
+}
+.five #shopss h1{
+	text-align: center;
+	font-family:sans-serif;
+	font-weight: 900px;
+	padding-top: 80px;
+	color: white;
+	font-size: 50px;
+	color: 11b6bf;
+}
+.five #shopss a{
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+
+
+
+.five #cntct{
+	background-color:1cb37d;
+	width: 50%;
+	height:350px;
+	float: right;
+	text-align: center;
+}
+.five #cntct h1{
+	text-align: center;
+	font-family:sans-serif;
+	font-weight: 900px;
+	padding-top: 80px;
+	color: ffffff;
+	font-size: 50px;
+}
+.five #cntct a{
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+.commos h1{
+	font-weight: 50px;
+	font-size: 78px;
+	color: 41c8f4;
+	text-align: center;
+}
+.commos  p{
+	text-align: center;
+	font-size: 15px;
+	font-weight: 5px;
+	font-family: sans-serif;
+}
+#span{
+	text-align: center;
+	font-family: sans-serif;
+	padding-bottom: 140px;
+	padding-left: 200px;
+	padding-right: 200px;
+	line-height: 30px;
+}
+.box{
+	width: 100%;
+	height: 400px;
+	padding-top:  170px;
+}
+.box #text p{
+	
+	float: center;
+	padding-right: 200px;
+	padding-left: 200px;
+	line-height: 30px;
+}
+
+
+
+/***************************************************
+             about page
+***********************************************/
+/**********
+content left
+*********/
+.one .left{
+	float: left;
+	width:522px;
+	height:480px;
+	background-color:Gray;
+	
+}
+.one .left p{
+	color: white;
+	font-family: sans-serif;
+	display: inline-block;
+	text-align: justify;
+}
+/**********
+content right
+*********/
+.one .right{
+	float: right;
+	width:810px;
+	height: 480px;
+
+}
+.right img{
+    float: right;
+    width: 788px;
+    height: 480px;
+    padding-left: 50px;
+}
+
+.left:hover{
+	background-color: orange;
+}
+
+/**********
+section two
+*********/
+.two li{
+	list-style: none;
+	display: inline;
+
+
+}
+.two img{
+	width: 22%;
+	margin-right: 1%;
+
+}
+.two {
+	text-align: center;
+	padding-top:7%;
+}
+.two h1{
+	font-weight: 600px;
+	font-size: 50px;
+	color: MediumVioletRed ;
+	text-align: center;
+}
+.two span{
+	padding-left: 600px;
+}
+/**********
+section three
+*********/
+#box{
+	max-width: 100%;
+	height: 55%;
+	background-color: #F6F6F6!important ;
+}
+#box h1{
+	font-weight: 600px;
+	font-size: 50px;
+	color: MediumVioletRed;
+	text-align: center;
+	padding-top: 80px;
+}
+#box p{
+
+	font-weight: 500px;
+	font-family: Helvetica;
+	text-align: center;
+}
+#box a{
+	text-align: center;
+    text-decoration: none;
+    color: hotpink;
+}
+/**********
+section four
+*********/
+.section4{
+ 
+ height: 600px;
+ max-width: 100%;
+}
+#part1{
+ 
+ height: 598px;
+ width: 60%;
+ display: inline-block;
+
+}
+#iphone{
+ 
+ width: 49%;
+ height: 292px;
+ float: left;
+ margin: 3px 3px 3px 3px;
+}
+#iphone:hover{
+	background-color: GreenYellow ;
+}
+#iphone a{
+ color: #c1db6f;
+ text-decoration: none;
+ font-size: 20px;
+ font-style: italic;
+ padding-left: 20px;
+}
+#bigimage{
+
+ 
+ width: 40%;
+ height: 599px;
+    float: right;
+    display: inline-block;
+ 
+}
+#may {
+
+ font-family: 'Work Sans', sans-serif;
+ padding-left: 20px;
+ padding-right: 10px;
+
+}
+#heading{
+ font-family: 'Work Sans', sans-serif;
+ padding-left: 20px;
+ padding-right: 10px;
+}
+/**********
+section five
+*********/
+.five{
+	display: inline;
+}
+.five #shop{
+	background-color:11b6bf;
+	width: 50%;
+	height:350px;
+	display: inline-block;
+	text-align: center;
+
+}
+.five #shop h1{
+	text-align: center;
+	font-family:sans-serif;
+	font-weight: 900px;
+	padding-top: 80px;
+	color: white;
+	font-size: 50px;
+}
+.five #shop a{
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+.five #contact{
+	background-color:1cb37d;
+	width: 50%;
+	height:350px;
+	float: right;
+	text-align: center;
+}
+.five #contact h1{
+	text-align: center;
+	font-family:sans-serif;
+	font-weight: 900px;
+	padding-top: 80px;
+	color: white;
+	font-size: 50px;
+}
+.five #contact a{
+	color: white;
+	text-decoration: none;
+	text-align: center;
+}
+/** FOOTER UPPER **/
+ .upper{
+  width: 100%;
+  height: 260px;
+  background-color: #f79522;
+ }
+ #side1{
+  padding-top: 7px;
+  width: 50%;
+  height: 250px;
+  display: inline-block;
+  margin-left: 30px;
+
+  
+ }
+
+
+ #contacts {
+  width: 55%;
+  height: 250px;
+  float: left;
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+}
+#contacts h2{
+	padding-right: 30px;
+}
+
+
+.upper #link{
+ text-decoration: none;
+ list-style: none;
+ padding-left: 30px;
+}
+
+  #quicklink {
+  width: 45%;
+  height: 250px;
+  float: left;
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+ } 
+ #quicklink li{
+  list-style: none;
+  text-decoration: none;
+  line-height: 30px;
+  color: white;
+ }
+ #side2{
+
+  width: 47%;
+  height: 250px;
+  float: right;
+  text-align: center;
+ }
+
+ #side2 img{
+  padding-top: 60px;
+  padding-right: 48px;
+      width: 350px;
+    height: 95px;
+}
+#foot{
+	width: 100%;
+	  height: 70px;
+  		background-color: #fccc0d;
+}
+#foot ul{
+	
+	font-family: 'Work Sans', sans-serif;
+	 color: white;
+	 display: inline-block;
+}
+#foot li{
+	display: inline;
+	text-decoration: none;
+	list-style: none;
+	padding-right: 80px;
+	}
+/***********************
+Responsive***************
+*************************************************************/
+
+@media screen and (max-width: 10)
